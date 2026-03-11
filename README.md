@@ -29,7 +29,7 @@ I enjoy building projects, learning new technologies, and improving my programmi
 ## 🌱 Learning Philosophy
 > Learn → Practice → Improve → Repeat  
 
-![snake gif](https://github.com/Balamurugan7845/Balamurugan/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Balamurugan7845/Balamurugan7845/blob/output/github-snake-dark.svg)
 
 # 💻 Tech Stack
 
