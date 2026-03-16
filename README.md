@@ -29,7 +29,7 @@ I enjoy building projects, learning new technologies, and improving my programmi
 ## 🌱 Learning Philosophy
 > Learn → Practice → Improve → Repeat  
 
-![snake gif](https://github.com/Balamurugan7845/Balamurugan7845/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Balamurugan7845/Balamurugan7845/output/github-snake-dark.svg)
 
 # 💻 Tech Stack
 
@@ -67,7 +67,14 @@ I enjoy building projects, learning new technologies, and improving my programmi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
+### ☁️ Cloud
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -81,6 +88,14 @@ I enjoy building projects, learning new technologies, and improving my programmi
 ![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+---
+
+### 🧪 Data Science Environment
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
