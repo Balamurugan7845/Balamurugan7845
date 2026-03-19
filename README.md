@@ -31,6 +31,15 @@ I enjoy building projects, learning new technologies, and improving my programmi
 
 ![snake gif](https://raw.githubusercontent.com/Balamurugan7845/Balamurugan7845/output/github-snake-dark.svg)
 
+# 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xo_parthi_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balamurugan-s-10b823347/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Balamuruga52185)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamurugansundarraj07@gmail.com)
+
+---
+
 # 💻 Tech Stack
 
 ### Programming Languages
@@ -124,15 +133,6 @@ I enjoy building projects, learning new technologies, and improving my programmi
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan7845&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
----
-
-# 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xo_parthi_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balamurugan-s-10b823347/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Balamuruga52185)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamurugansundarraj07@gmail.com)
 
 ---
 
