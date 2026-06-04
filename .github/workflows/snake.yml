@@ -1,97 +1,96 @@
-name: GitHub Snake Game
-
-
+name: 🐍 GitHub Snake Game - Contribution Animation
 
 on:
-
   # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
     - cron: "0 0 * * *"
 
-
-
   # Allow manual triggering of the workflow
-
   workflow_dispatch:
 
-
-
   # Trigger the workflow on pushes to the main branch
-
   push:
-
     branches:
-
       - main
 
-
+# Set permissions for workflow
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-
-  generate:
-
+  generate-snake:
     runs-on: ubuntu-latest
-
-    timeout-minutes: 10
-
-
+    timeout-minutes: 15
+    name: 🎮 Generate Snake Animations
 
     steps:
-
-      # Step 1: Checkout the repository
-
-      - name: Checkout Repository
-
-        uses: actions/checkout@v3
-
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
-        uses: Platane/snk@v3
-
+      # Step 1: Checkout the repository with full history
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
         with:
+          fetch-depth: 0
 
+      # Step 2: Generate multiple snake animation styles
+      - name: 🐍 Generate GitHub Contributions Snake Game Animations
+        uses: Platane/snk@v3
+        with:
           # GitHub username to generate the animation for
-
           github_user_name: ${{ github.repository_owner }}
 
-
-
-          # Define the output files and their configurations
-
+          # Define the output files with different themes and configurations
           outputs: |
-
             dist/github-snake.svg
-
             dist/github-snake-dark.svg?palette=github-dark
-
+            dist/github-snake-dark-alt.svg?palette=github-dark&color_snake=00D9FF&color_dots=#1f6feb,#388bfd,#58a6ff,#79c0ff,#a371f7
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/neon.svg?palette=github-dark&color_snake=00FF00&color_dots=#FF00FF,#00FFFF,#FF00FF,#00FFFF,#FFFF00
+            dist/cyberpunk.svg?palette=github-dark&color_snake=FF006E&color_dots=#00D9FF,#FFD700,#FF006E,#00FF00,#FF1493
+            dist/twilight.gif?color_snake=9D4EDD&color_dots=#5A189A,#7209B7,#9D4EDD,#C77DFF,#E0AAFF
 
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
-
       # Step 3: Deploy the generated files to the 'output' branch
-
-      - name: Deploy to Output Branch
-
+      - name: 🚀 Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
-
         with:
-
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
           publish_dir: ./dist
-
           publish_branch: output
+          # Custom commit message for better git history
+          commit_message: "🐍 Update snake animations [skip ci] - $(date +'%Y-%m-%d %H:%M:%S')"
 
-          # Optionally, you can set a custom commit message
+      # Step 4: Generate artifact summary
+      - name: 📊 Generate Workflow Summary
+        run: |
+          echo "## 🐍 Snake Animation Generation Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Generated Files:" >> $GITHUB_STEP_SUMMARY
+          echo "- github-snake.svg (Light Theme)" >> $GITHUB_STEP_SUMMARY
+          echo "- github-snake-dark.svg (Dark Theme)" >> $GITHUB_STEP_SUMMARY
+          echo "- github-snake-dark-alt.svg (Dark with Cyan/Purple)" >> $GITHUB_STEP_SUMMARY
+          echo "- ocean.gif (Orange Ocean Theme)" >> $GITHUB_STEP_SUMMARY
+          echo "- neon.svg (Neon Green/Magenta)" >> $GITHUB_STEP_SUMMARY
+          echo "- cyberpunk.svg (Cyberpunk Theme)" >> $GITHUB_STEP_SUMMARY
+          echo "- twilight.gif (Purple Twilight)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🎯 All animations deployed to 'output' branch" >> $GITHUB_STEP_SUMMARY
 
-          commit_message: "Update snake animation [skip ci]"
+      # Step 5: Upload artifacts for easier access
+      - name: 📦 Upload Generated Artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: snake-animations
+          path: dist/
+          retention-days: 30
+          compression-level: 6
+
+      # Step 6: Create deployment status check
+      - name: ✅ Workflow Status
+        run: |
+          echo "Workflow completed successfully!"
+          echo "Check the 'output' branch for generated animations"
+          ls -lah dist/ 2>/dev/null || echo "Dist folder will be created after first run"
