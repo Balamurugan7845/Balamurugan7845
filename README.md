@@ -1,158 +1,152 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;AI%20%26%20ML%20Enthusiast;Full%20Stack%20Developer;Data%20Science%20Learner;Always%20Learning%20New%20Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Computer+Vision+Learner;Building+Projects+Every+Day&center=true&width=600&height=50">
 </p>
 
-# Hi, I'm Balamurugan 👋
+<h1 align="center">Hi 👋, I'm Balamurugan</h1>
 
-🎓 **Computer Science Student**  
-🤖 **AI & ML Enthusiast | 📊 Data Science Learner | 💻 Full Stack Developer**
+<h3 align="center">AI & ML Enthusiast | Full Stack Developer | Computer Science Student</h3>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Computer Science student** interested in **Artificial Intelligence, Machine Learning, and Full Stack Development**.
+🎓 Computer Science Student passionate about solving real-world problems through technology.
 
-I enjoy building projects, learning new technologies, and improving my programming skills every day.
+🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
+
+💻 Full Stack Developer building modern web applications using MERN Stack and Flask.
+
+📊 Exploring Data Science, Analytics, and AI-powered solutions.
+
+🌱 Always learning new technologies and improving my development skills.
 
 ---
 
-## 📚 Current Focus
+## 🎯 Current Focus
 
 * Artificial Intelligence & Machine Learning
 * Deep Learning & Computer Vision
 * Data Science with Python
-* Full Stack Development (MERN + Flask)
+* MERN Stack Development
+* Open Source Contributions
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+* Resume screening using NLP
+* Skill extraction and matching
+* Flask + Machine Learning
+
+### 👁️ YOLOv8 Object Detection System
+
+* Real-time object detection
+* OpenCV + YOLOv8
+* Custom model training
+
+### 🌐 Full Stack MERN Application
+
+* JWT Authentication
+* MongoDB Database
+* Responsive React UI
+
+### 📊 Data Science Dashboard
+
+* Interactive analytics
+* Data visualization
+* Python, Pandas, Matplotlib
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+
+---
+
+## 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Balamurugan7845\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Balamurugan7845\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan7845\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📊 Contribution Graph
+
+[![Balamurugan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Balamurugan7845\&theme=react-dark)](https://github.com/Balamurugan7845)
+
+---
+
+## 🏆 Achievements & Goals
+
+### 2026 Goals
+
+* 🚀 Build 15+ AI/ML Projects
+* 🤖 Master Deep Learning
+* 👁️ Become proficient in Computer Vision
+* 🌐 Deploy Full Stack Production Applications
+* 📖 Contribute to Open Source Projects
+* 💼 Secure AI/ML Internship
 
 ---
 
 ## 🌱 Learning Philosophy
-> Learn → Practice → Improve → Repeat  
+
+> Learn → Build → Improve → Share → Repeat
+
+---
+
+## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Balamurugan7845/Balamurugan7845/output/github-snake-dark.svg)
 
-# 🌐 Connect With Me
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xo_parthi_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balamurugan-s-10b823347/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Balamuruga52185)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamurugansundarraj07@gmail.com)
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/xo_parthi_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/balamurugan-s-10b823347/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Balamuruga52185)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:balamurugansundarraj07@gmail.com)
 
 ---
 
-# 💻 Tech Stack
-
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### ☁️ Cloud
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🤖 AI / ML Tools
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-
----
-
-### 🧪 Data Science Environment
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🔐 Backend & API Skills
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![POST API](https://img.shields.io/badge/POST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-# 👁️ Computer Vision
-
-* YOLOv8
-* OpenCV
-* Image Processing
-* Object Detection
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Balamurugan7845&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Balamurugan7845&theme=chartreuse-dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan7845&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Balamurugan7845&color=blue)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Balamurugan7845&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-
-⭐ **Always learning and building in AI, ML, and Full Stack Development**
-[![](https://visitcount.itsvg.in/api?id=Balamurugan7845&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">⭐ Building AI, ML & Full Stack Projects Every Day 🚀</h3>
