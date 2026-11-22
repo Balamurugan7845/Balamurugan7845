@@ -1,272 +1,238 @@
-<div align="center">
-
 # 👋 Hi, I'm Balamurugan
 
 ### AI & Machine Learning Enthusiast | Full Stack Developer | Computer Science Student
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Deep+Learning+Learner;Computer+Vision+Explorer;Building+Real+World+Projects" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Full+Stack+Web+Developer;Exploring+AI+%26+Machine+Learning;Computer+Vision+%26+Deep+Learning;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Balamurugan7845&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Balamurugan7845?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Balamurugan7845?affiliations=OWNER&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Full%20Stack-blue?style=for-the-badge" />
+<p align="center">
+  <a href="https://github.com/Balamurugan7845">
+    <img src="https://komarev.com/ghpvc/?username=Balamurugan7845&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" />
+  </a>
+  <a href="https://github.com/Balamurugan7845?tab=followers">
+    <img src="https://img.shields.io/github/followers/Balamurugan7845?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS" />
+  </a>
+  <img src="https://img.shields.io/github/stars/Balamurugan7845?style=for-the-badge&logo=github&color=00C2FF&label=TOTAL+STARS" />
 </p>
-
-</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
+
+I'm a Computer Science student and aspiring software engineer passionate about building intelligent, scalable, and user-focused applications.
+
+I enjoy combining **Full Stack Development, Artificial Intelligence, and Machine Learning** to solve real-world problems through technology.
+
+- 🎓 Computer Science Student
+- 🌐 Interested in Full Stack & Backend Engineering
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🧠 Learning Deep Learning and Computer Vision
+- ⚡ Building real-world software applications
+- 🔬 Exploring RAG, LLMs, and Agentic AI
+- 🚀 Interested in Open Source and innovative technologies
 
 ```typescript
 const balamurugan = {
-  pronouns: "he/him",
-
+  role: "Aspiring Software Engineer",
   location: "India 🇮🇳",
 
-  education: "B.Tech Computer Science",
-
-  currentFocus: [
+  interests: [
+    "Full Stack Development",
     "Artificial Intelligence",
     "Machine Learning",
     "Deep Learning",
     "Computer Vision",
-    "Full Stack Development"
+    "Agentic AI"
   ],
 
-  currentlyLearning: [
+  currentlyExploring: [
     "PyTorch",
     "TensorFlow",
     "YOLO",
     "OpenCV",
-    "PostgreSQL",
-    "Prisma ORM",
-    "Docker",
+    "LangChain",
+    "LangGraph",
+    "MCP",
     "RAG",
-    "Agentic AI"
+    "Docker",
+    "PostgreSQL"
   ],
 
-  workingOn: [
-    "AI Projects",
-    "MERN Applications",
-    "Backend Development",
-    "Open Source"
-  ],
-
-  philosophy:
-    "Learn → Build → Improve → Repeat",
-
-  askMeAbout: [
-    "Python",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Machine Learning"
-  ]
+  developmentPhilosophy:
+    "Learn deeply. Build intelligently. Improve continuously."
 };
 ```
 
-> **Strong fundamentals over fast frameworks — Code • Build • Ship • Improve**
+---
+
+## 🚀 What I'm Currently Working On
+
+| Domain | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | LLMs, RAG, Agentic AI |
+| 🧠 Machine Learning | Model development and evaluation |
+| 🔥 Deep Learning | PyTorch and TensorFlow |
+| 👁️ Computer Vision | OpenCV and YOLO |
+| 🌐 Full Stack | React, Next.js, Node.js |
+| ⚙️ Backend Engineering | REST APIs and scalable architecture |
+| 🗄️ Database Engineering | MongoDB, PostgreSQL, Prisma |
+| 🐳 DevOps | Docker and deployment |
 
 ---
 
-# 🚀 Current Focus
+## ⭐ Featured Projects
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 👁️ Computer Vision
-- 🌐 MERN Stack
-- 🗄️ PostgreSQL
-- 📦 Prisma ORM
-- 🐳 Docker
+Projects focused on practical engineering, automation, and intelligent systems.
+
+### 🤖 AI & Machine Learning
+
+**OceanVision 3D**
+- An AI-powered ocean visualization project.
+- Exploring 3D visualization and intelligent ocean-related solutions.
+- Developed as part of Smart India Hackathon 2026.
+
+**AI Study Assistant**
+- AI-powered educational assistant.
+- Document-based question answering and RAG architecture.
+- Exploring LLM integration and intelligent learning workflows.
+
+### 🌐 Full Stack Development
+
+**Food Management System**
+- Full-stack food management application.
+- React/Next.js frontend and backend API architecture.
+- Database-driven application development.
+
+**AI-Based Attendance Management System**
+- Smart attendance management using facial recognition.
+- Role-based access for administrators, faculty, and students.
+- Attendance analytics and intelligent automation.
+
+**CompressX**
+- Modern file and image compression platform.
+- React, TypeScript, Node.js, and Sharp.
+- PostgreSQL and Prisma-based backend architecture.
+
+**NexaBoost**
+- AI-powered Windows system performance companion.
+- System resource monitoring and intelligent optimization recommendations.
+- Safety-focused automation architecture.
 
 ---
 
-# ⭐ Featured Projects
+## 💻 Technical Skills
 
-> Replace the repository names with your own projects.
-
-- 🍽️ Food Management System
-- 🏥 Smart AI Attendance Management System
-- 🤖 AI Chatbot
-- 🛒 Shop Billing System
-
----
-
-# 💻 Tech Stack
-
-## 🧩 Programming Languages
+### Programming Languages
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+### Frontend Development
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap" />
+</p>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+### Backend Development
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django" />
+</p>
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+### Databases & ORM
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma" />
+</p>
+
+### AI / Machine Learning / Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-Agentic%20AI-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel,figma" />
 </p>
 
 ---
 
-## 🎨 Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-</p>
-
----
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</p>
-
----
-
-## 🛠️ Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-xi-green-62.vercel.app/api?username=Balamurugan7845&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats-xi-green-62.vercel.app/api/top-langs/?username=Balamurugan7845&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Balamurugan7845&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurugan7845&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Balamurugan7845&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=Balamurugan7845&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balamurugan7845&theme=react-dark"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Balamurugan7845&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Balamurugan7845/Balamurugan7845/output/github-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Balamurugan7845/Balamurugan7845/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🏆 Achievements & Recognition
+
+- 🚀 Smart India Hackathon 2026 – Team Hexa Coders.
+- 💻 Building full-stack applications and AI-powered projects.
+- 🤖 Exploring practical applications of AI and Machine Learning.
+- 🌱 Continuously learning emerging software engineering technologies.
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/balamurugan-s-10b823347/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/Balamuruga52185">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://www.instagram.com/xo_parthi_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:balamurugansundarraj07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://github.com/Balamurugan7845">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/balamurugan-s-10b823347/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Balamuruga52185">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/xo_parthi_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:balamurugansundarraj07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for stopping by!
-
-**Learning • Building • Sharing • Growing 🚀**
-
-</div>
+<p align="center">
+  <b>💡 Learn. Build. Innovate. Repeat.</b>
+  <br/>
+  <i>Turning ideas into intelligent solutions.</i>
+  <br/><br/>
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
